@@ -2,7 +2,7 @@ header {
     background: BBBBBB;
 }
 
-nav li{
+nav li{ /*seleto. Ele diz ao navegador: "Procure todas as tag<li> que 
     display: inline;
     margin: 0 0 0 15xp;
 }
